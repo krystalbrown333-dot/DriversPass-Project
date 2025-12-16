@@ -1,24 +1,32 @@
 # DriversPass-Project
 
-Business Requirements Document and System Design for the DriverPass scheduling and training system (CS 255)
+# CS255-Portfolio
 
-This repository contains the complete documentation for the DriverPass system created for CS 255 at Southern New Hampshire University. It includes both Project One (Business Requirements Document) and Project Two (System Design Document).
+# DriverPass Business Requirements Document
+
+This repository contains the Business Requirements Document (BRD) for the DriverPass scheduling and training system, developed as part of CS 255: System Analysis and Design at Southern New Hampshire University.
 
 ## Project Overview
 
-DriverPass is a cloud-based scheduling and training system designed to help customers register, schedule driving lessons, track progress, and interact with staff online. This repository includes all analysis and design artifacts developed during the course.
+DriverPass is a cloud-based system designed to streamline driving appointment scheduling, registration, and training package management. The BRD outlines the system’s goals, components, functional and nonfunctional requirements, user interface needs, assumptions, limitations, and project timeline.
 
 ## Contents
 
-- `Project1_BRD/` – Business Requirements Document and Gantt chart  
-- `Project2_SystemDesign/` – UML diagrams and system design documentation  
-- `README.md` – Repository overview
+- `DriverPass_BRD.docx` — Finalized Business Requirements Document (includes embedded Gantt chart)  
+- `README.md` — Repository overview
+
+## Key Features
+
+- Clear system objectives and measurable goals  
+- Functional and nonfunctional requirements  
+- Role-based user interface design  
+- System assumptions and limitations  
+- Gantt chart included within the BRD document
 
 ## Tools Used
 
-- Microsoft Word  
-- Draw.io (diagrams and Gantt chart)  
-- GitHub for version control and portfolio presentation
+- Microsoft Word — Document creation and formatting  
+- Draw.io — Gantt chart creation
 
 ---
 
